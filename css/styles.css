@@ -53,6 +53,10 @@ a {
   color: var(--accent-color);
 }
 
+.site-nav .link.current {
+  color: var(--accent-color);
+}
+
 .hero {
   background-color: #2f303a;
 }
